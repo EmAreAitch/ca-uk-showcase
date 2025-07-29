@@ -1,101 +1,98 @@
 ---
-title: "Section 206AB & 206CCA Demystified: A New lol Delhi CA's Guide to Higher
-  TDS for Non-Filers"
-date: 2025-06-19 14:02 +05:30
-cover_image: /images/uploads/chatgpt-image-jun-19-2025-07-51-46-pm.png
+title: "Non-Compliance Deductions Demystified: A UK Accountant’s Guide to Higher
+  Tax Withholding"
+date: 2025-06-19 14:02 +01:00
+cover_image: /images/uploads/generated-image-4-.png
 tags:
   - income-tax
-  - india
-  - ca
-  - section206ab
-  - section206cca
-  - tds
-  - new-delhi
-description: A practical handbook from a New Delhi Chartered Accountant on
-  navigating the enhanced TDS provisions under Sections 206AB and 206CCA.
+  - uk
+  - accountant
+  - cis
+  - ir35
+  - paye
+  - hmrc
+description: A practical guide for UK businesses and contractors on how HMRC
+  enforces higher tax deductions for non-compliant payees under CIS, IR35 and
+  PAYE.
 ---
-## 📘 What Do Sections 206AB & 206CCA Provide?
 
-* **Section 206AB** (TDS): Requires deductors to withhold tax at *twice* the standard rate (or 5%, whichever is higher) on payments to any payee who has not filed ITRs for the preceding two years and whose TDS/TCS aggregate exceeds ₹50,000 in each of those years.
-* **Section 206CCA** (TCS): Mirrors 206AB, mandating *double* collection of TCS on specified supplies (e.g., foreign remittances, e‑commerce) from non‑filer sellers.
+## 📘 What Do HMRC’s Higher Withholding Rules Mean?
 
-These rules came into effect on **July 1, 2021**, but compliance headaches persist for many businesses in Delhi’s fast‑moving markets.
+While the UK tax system does not have a direct equivalent to India’s Sections 206AB/206CCA, it does apply **higher tax deductions** when subcontractors or contractors fail to stay compliant:
 
-- - -
+* **CIS (Construction Industry Scheme)** — If a subcontractor is not registered with HMRC for CIS, contractors must deduct tax at **30%** instead of the standard 20%.
+* **IR35 (Off-Payroll Working)** — If IR35 applies and the contractor is caught by the rules, the client must deduct income tax and NICs as if they were an employee.
+* **PAYE & RTI Non-Compliance** — Errors in payroll or misclassifying workers can result in backdated tax liabilities and penalties.
 
-## ✅ Who Is Impacted?
+---
 
-1. **Deductors** (payers):  
+## ✅ Who Is Affected?
 
-   * Employers, consultants, professional firms, rent payers, banks—anyone responsible for deducting TDS.  
-   * Must check the payee’s ITR status before remitting TDS.
-2. **Payees** (recipients):  
+**Deductors:**  
+- Building contractors and developers under CIS.  
+- Companies engaging freelancers and contractors where IR35 might apply.  
+- Employers running PAYE payrolls.
 
-   * Individuals, HUFs, partnerships, firms (excluding LLPs)—if they haven’t filed ITRs for the last two assessment years and have high enough TDS/TCS from a single deductor.
+**Payees:**  
+- Subcontractors not CIS-registered.  
+- Contractors using PSCs failing IR35 status tests.
+- Workers incorrectly working as self-employed.
 
-- - -
+---
 
 ## 💼 Key Conditions & Rates
 
-| Section         | Standard Rate | Enhanced Rate (206AB/206CCA) |
-| --------------- | ------------- | ---------------------------- |
-| 192 (Salary)    | As per slab   | Twice slab rate or 5%        |
-| 194C (Contract) | 1% / 2%       | 2% / 4%                      |
-| 194J (Fees)     | 10%           | 20%                          |
-| 206C (E‑comm)   | 1% / 5%       | 2% / 10%                     |
+| Context                | Standard Rate | Higher Rate |
+|------------------------|----------------|--------------|
+| CIS Registered          | 20%           | 30%         |
+| IR35 Non-Compliant     | N/A           | PAYE tax & NICs deducted |
+| PAYE Non-Compliance   | Normal PAYE   | Penalties & backdated tax |
 
-> *Note*: Use the *higher* of twice the rate or 5% wherever the slab rate is lower.  
+---
 
-- - -
+## 📊 Example for UK Contractors
 
-## 📊 Delhi‑Centric Example
+**Example:**  
 
-**Scenario**:  
+* Liam, a self-employed plumber in Manchester, didn’t renew his CIS registration this tax year.
+* His main contractor must now deduct 30% tax instead of 20% on payments.
+* Liam’s cashflow drops, and he’ll need to reclaim any overpaid tax through Self Assessment.
 
-* **Mr. Verma**, a freelance graphic designer in Hauz Khas Village, did not file ITRs for AY 2023–24 and AY 2024–25.  
-* During FY 2024–25, he received ₹1 lakh in fees (Section 194J) from a Connaught Place ad‑agency.  
-
-**Without 206AB**: TDS @ 10% → ₹10,000 withheld.\
-**With 206AB**: TDS @ 20% → ₹20,000 withheld (double the standard rate).  
-
-Mr. Verma must now file his pending returns, else he risks a permanent higher withholding on all future payments.
-
-- - -
+---
 
 ## 🧠 Pros & Cons
 
-### ✅ Pros for the Government
+**✅ Pros for HMRC**
+- More secure tax collection.
+- Discourages non-compliance.
 
-* Encourages timely ITR filings  
-* Curbs tax evasion  
+**❌ Cons for Contractors**
+- Higher deductions reduce cashflow.
+- More admin to stay compliant.
 
-### ❌ Cons for Taxpayers
+---
 
-* **Cashflow squeeze**: Higher TDS reduces immediate liquidity—painful for small Delhi suppliers in markets like Sarojini Nagar.  
-* **Increased compliance**: Deductors need ITR-filing status checks via the TRACES portal before every payment.
+## 🔄 Compliance Checklist for UK Businesses
 
-- - -
+- ✅ Verify CIS status every month.
+- ✅ Keep subcontractor UTRs and HMRC verification evidence.
+- ✅ Use up-to-date payroll software.
+- ✅ Run IR35 status checks with HMRC’s CEST tool.
+- ✅ Keep RTI submissions accurate and timely.
 
-## 🔄 Compliance Checklist for Delhi Businesses
+---
 
-1. **Download non‑filer lists** from TRACES monthly.  
-2. **Verify payee PAN** & ITR status before TDS deduction.  
-3. **Update accounting software** to pick up 206AB/206CCA rates.  
-4. **Communicate with vendors**—ask them to file ITRs and submit proof.  
-5. **Reconcile TDS certificates** (Form 16A) carefully to avoid disputes.
+## 📝 Practical UK Tips
 
-- - -
+- Educate your subcontractors about staying CIS-registered.
+- Automate verification checks where possible.
+- Consider IR35 insurance if engaging freelancers regularly.
+- Keep clean, updated contracts and payment records.
 
-## 📝 Practical Delhi Tips
-
-1. **Leverage CA networks** in CP and Karol Bagh to bulk‑update vendor lists.  
-2. **Host an ITR‑filing drive** for your contractors—partner with a local CA firm in Nehru Place to expedite filings.  
-3. **Schedule TRACES downloads** during off‑peak hours to avoid portal congestion.  
-
-- - -
+---
 
 ## 🚀 Conclusion
 
-Sections 206AB and 206CCA have made timely ITR filing *non‑negotiable* for professionals and businesses in New Delhi. As your Delhi‑based CA, I recommend setting up quarterly vendor reviews, automating non‑filer checks, and educating your payees on the cashflow benefits of staying compliant. Should you need help updating your TDS procedures or running a bulk‐ITR filing camp in Patel Nagar, feel free to reach out!
+UK tax rules don’t use identical sections like 206AB/206CCA, but the **principle is the same** — fail to comply, and you pay more up front. As your UK accountant, I can help you stay verified, IR35-safe, and penalty-free. Reach out if you’d like a quick CIS check or an IR35 contract review.
 
-*— CA Ritu Sharma, New Delhi*
+*— Emma Collins, Chartered Accountant, London*
